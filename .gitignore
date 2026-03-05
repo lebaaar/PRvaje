@@ -23,3 +23,5 @@ tex-en/DM.toc
 
 notebooks/podatki/urnik/PR20*.csv
 notebooks/podatki/urnik/vpisne.txt
+
+venv/
